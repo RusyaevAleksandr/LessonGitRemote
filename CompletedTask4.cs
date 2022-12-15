@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace LessonGit
 {
-    internal class CompletedTask1
+    internal class CompletedTask4
     {
-        //completed the task 1
     }
 }
