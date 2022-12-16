@@ -9,6 +9,5 @@ namespace LessonGit
     internal class CompletedTask1
     {
         //completed the task 1
-        //completed the task 1.2
     }
 }
