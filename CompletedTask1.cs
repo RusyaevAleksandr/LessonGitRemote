@@ -10,5 +10,6 @@ namespace LessonGit
     {
         //completed the task 1
         //completed the subtask_1
+        //completed the subtask_2
     }
 }
