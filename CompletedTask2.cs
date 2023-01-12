@@ -12,5 +12,7 @@ namespace LessonGit
         //completed the task 2.1
         //completed the task 3
         //completed the task 4
+        //completed the task 6.1
+        //completed the task 6.2
     }
 }
